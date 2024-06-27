@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/DailySpark/static/css/main.f855e6bc.css",
+    "main.js": "/DailySpark/static/js/main.4b982cd3.js",
+    "static/js/453.08c78f33.chunk.js": "/DailySpark/static/js/453.08c78f33.chunk.js",
+    "static/media/set.jpeg": "/DailySpark/static/media/set.5a8e79cae14d2c63df5a.jpeg",
+    "static/media/roller.gif": "/DailySpark/static/media/roller.7c688598f3d82b9a6884.gif",
+    "index.html": "/DailySpark/index.html",
+    "main.f855e6bc.css.map": "/DailySpark/static/css/main.f855e6bc.css.map",
+    "main.4b982cd3.js.map": "/DailySpark/static/js/main.4b982cd3.js.map",
+    "453.08c78f33.chunk.js.map": "/DailySpark/static/js/453.08c78f33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.4b982cd3.js"
+  ]
+}
